@@ -63,7 +63,7 @@ users on link -node ratio, classes of roads.
 ## Backend Django Developer and Data Visualisation expert
 Freelancer,
 January 2020 to November 2022
-
+https://github.com/kof1nti/Apps
 • Develop location-aware apps with geodjango and django rest api. Postgres database stores models.
 
 • As a cartographer, I have composed static maps which depict study areas. Some of these maps
