@@ -3,7 +3,7 @@ Intro,
 Portfolio,
 About me and 
 how you can reach me|
-Visit https://kof1nti.github.io/geo.github.io/ to see visuals|
+Visit [https://kof1nti.github.io/geo.github.io/](https://kof1nti.github.io/Projects/) to see visuals|
 
 
 # About me
